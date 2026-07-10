@@ -1,4 +1,4 @@
---YT Downloader v1 created by Infinity--
+--Vertex Downloader created by Infinity--
 
 A simple way to use yt-dlp without memorizing any commands. 
 
